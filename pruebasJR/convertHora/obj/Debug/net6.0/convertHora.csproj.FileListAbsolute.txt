@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\bin\Debug\net6.0\convertHora.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\bin\Debug\net6.0\convertHora.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\bin\Debug\net6.0\convertHora.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\bin\Debug\net6.0\convertHora.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\bin\Debug\net6.0\ref\convertHora.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\bin\Debug\net6.0\convertHora.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\ref\convertHora.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\convertHora\obj\Debug\net6.0\convertHora.genruntimeconfig.cache

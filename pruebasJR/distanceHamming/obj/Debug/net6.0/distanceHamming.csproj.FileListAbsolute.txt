@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\bin\Debug\net6.0\distanceHamming.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\bin\Debug\net6.0\distanceHamming.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\bin\Debug\net6.0\distanceHamming.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\bin\Debug\net6.0\distanceHamming.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\bin\Debug\net6.0\ref\distanceHamming.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\bin\Debug\net6.0\distanceHamming.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\ref\distanceHamming.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\distanceHamming\obj\Debug\net6.0\distanceHamming.genruntimeconfig.cache

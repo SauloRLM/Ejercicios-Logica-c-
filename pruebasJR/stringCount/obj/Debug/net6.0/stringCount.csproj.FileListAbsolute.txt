@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\bin\Debug\net6.0\stringCount.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\bin\Debug\net6.0\stringCount.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\bin\Debug\net6.0\stringCount.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\bin\Debug\net6.0\stringCount.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\bin\Debug\net6.0\ref\stringCount.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\bin\Debug\net6.0\stringCount.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\ref\stringCount.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringCount\obj\Debug\net6.0\stringCount.genruntimeconfig.cache

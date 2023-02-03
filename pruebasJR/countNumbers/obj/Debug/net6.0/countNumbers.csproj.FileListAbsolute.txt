@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\bin\Debug\net6.0\countNumbers.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\bin\Debug\net6.0\countNumbers.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\bin\Debug\net6.0\countNumbers.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\bin\Debug\net6.0\countNumbers.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\bin\Debug\net6.0\ref\countNumbers.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\bin\Debug\net6.0\countNumbers.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\ref\countNumbers.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countNumbers\obj\Debug\net6.0\countNumbers.genruntimeconfig.cache

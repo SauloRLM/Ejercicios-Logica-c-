@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\bin\Debug\net6.0\countPalabras.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\bin\Debug\net6.0\countPalabras.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\bin\Debug\net6.0\countPalabras.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\bin\Debug\net6.0\countPalabras.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\bin\Debug\net6.0\ref\countPalabras.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\bin\Debug\net6.0\countPalabras.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\ref\countPalabras.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\countPalabras\obj\Debug\net6.0\countPalabras.genruntimeconfig.cache

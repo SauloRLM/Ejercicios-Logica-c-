@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\bin\Debug\net6.0\factorailN.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\bin\Debug\net6.0\factorailN.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\bin\Debug\net6.0\factorailN.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\bin\Debug\net6.0\factorailN.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\bin\Debug\net6.0\ref\factorailN.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\bin\Debug\net6.0\factorailN.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\ref\factorailN.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\factorailN\obj\Debug\net6.0\factorailN.genruntimeconfig.cache

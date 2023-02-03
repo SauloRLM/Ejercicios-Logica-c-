@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\bin\Debug\net6.0\cadenaValida.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\bin\Debug\net6.0\cadenaValida.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\bin\Debug\net6.0\cadenaValida.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\bin\Debug\net6.0\cadenaValida.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\bin\Debug\net6.0\ref\cadenaValida.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\bin\Debug\net6.0\cadenaValida.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\ref\cadenaValida.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\cadenaValida\obj\Debug\net6.0\cadenaValida.genruntimeconfig.cache

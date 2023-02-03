@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\bin\Debug\net6.0\stringInvert.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\bin\Debug\net6.0\stringInvert.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\bin\Debug\net6.0\stringInvert.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\bin\Debug\net6.0\stringInvert.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\bin\Debug\net6.0\ref\stringInvert.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\bin\Debug\net6.0\stringInvert.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\ref\stringInvert.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\stringInvert\obj\Debug\net6.0\stringInvert.genruntimeconfig.cache

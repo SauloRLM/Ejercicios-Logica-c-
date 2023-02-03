@@ -1,0 +1,15 @@
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\bin\Debug\net6.0\FazzBezz.exe
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\bin\Debug\net6.0\FazzBezz.deps.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\bin\Debug\net6.0\FazzBezz.runtimeconfig.json
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\bin\Debug\net6.0\FazzBezz.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\bin\Debug\net6.0\ref\FazzBezz.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\bin\Debug\net6.0\FazzBezz.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.AssemblyInfoInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.AssemblyInfo.cs
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\ref\FazzBezz.dll
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.pdb
+C:\Users\Personal\Desktop\Ejercicio c#\pruebasJR\FazzBezz\obj\Debug\net6.0\FazzBezz.genruntimeconfig.cache
